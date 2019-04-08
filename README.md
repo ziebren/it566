@@ -1,9 +1,13 @@
 # it566
 
 Name: Wireshark
+
 Description: Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education. 
+
 Your personal review: This is a great tool to capture packets as well as analyze them. With the capturing feature, it gets the entirety of the packets entering and leaving the system. You can then export the data to another program to recontruct the data from the packets to a more userful state. As for reading packet captures, you are able to filter packets with very specific keywords to find exactly what you want. You can follow streams to view a TCP handshake and data transfer very easily.
+
 Your personal notes on usage: ip.addr ==, ip.dst ==, can right click on any flag of packet and prepare as filter to find packets with that flag set
+
 Source URL (if applicable): https://www.wireshark.org/download.html
 Local Source (if applicable)
 
